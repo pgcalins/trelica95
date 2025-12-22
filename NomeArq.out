@@ -1,0 +1,87 @@
+ DADOS DE ENTRADA
+
+ numeros de nos          :    6
+
+ coordenadas nodais
+        no       x         y
+         1      7.32      7.32
+         2     14.63      7.32
+         3      0.00      0.00
+         4      7.32      0.00
+         5     14.63      0.00
+         6     21.96      0.00
+
+ numero de elementos     :   10
+
+  conectividade dos elementos e propriedades
+elemento   no inicial  no final     material
+         1         1         2         1
+         2         1         3         1
+         3         4         1         2
+         4         1         5         2
+         5         2         4         2
+         6         2         5         2
+         7         2         6         1
+         8         3         4         1
+         9         4         5         1
+        10         5         6         1
+
+ numero de materiais     :    2
+
+         1  199955000000.00000             0.00129
+         2  199955000000.00000             0.00065
+
+ numero de nos carregados:    2
+
+cargas nodais
+       no       px        py
+         4      0.00 -44500.00
+         5      0.00-111250.00
+
+
+ numero de nos suportados:    2
+
+
+  dados das condicoes de contorno
+                       status              valores prescritos
+                (1:prescrito, 0:livre)
+       no          u         v                u         v
+         3         1         1              0.0000    0.0000
+         6         0         1              0.0000    0.0000
+
+
+ RESULTADOS
+
+ deslocamentos nodais
+
+        no            u              v
+         1        0.474225E-02       -0.100996E-01
+         2        0.202182E-02       -0.112665E-01
+         3        0.000000E+00        0.000000E+00
+         4        0.189411E-02       -0.122352E-01
+         5        0.359441E-02       -0.159218E-01
+         6        0.612621E-02        0.000000E+00
+
+ reacoes nodais
+
+        no          Px             Py
+         1        -0.0000         0.0000
+         2         0.0000        -0.0000
+         3         0.0000     66810.7923
+         4        -0.0000    -44500.0000
+         5        -0.0000   -111250.0000
+         6        -0.0000     88939.2077
+
+ forca nos membros
+
+      elemento        forca axial
+         1    -95957.7124
+         2    -94484.7287
+         3     37663.8723
+         4     41219.9697
+         5      9667.7445
+         6     82103.0799
+         7   -125908.0598
+         8     66810.7923
+         9     59974.6646
+        10     89121.5847
