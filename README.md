@@ -1,4 +1,4 @@
-trelica95: Programa educacional para análise estática de treliças planas (Educational program for static analysis of plane trusses)
+**trelica95: Programa educacional para análise estática de treliças planas** (Educational program for static analysis of plane trusses)
 
 O programa trelica95.f95 é uma adaptação (fork) do programa de treliças planas de BREBBIA & FERRANTE (1986). O programa original estava escrito em Fortran IV/77 e foi adaptado para Fortran 90/95, com uma disciplina de programação estruturada mais forte.
 
@@ -23,6 +23,6 @@ Para que o pré processamento no GiD seja possível o diretório trelica95.gid/ 
 
 Referências Bibliográficas
 
-BREBBIA, C.A. & FERRANTE, A.J. (1986) Computational methods for the solution of engineering problems. London: Pentech Press. 370p.
+BREBBIA, C.A. & FERRANTE, A.J. (1986) **Computational methods for the solution of engineering problems**. London: Pentech Press. 370p.
  
-CIMNE (2026) GiD simulation. Disponível em: https://www.gidsimulation.com/. Acesso em: 07 maio 2026.
+CIMNE (2026) **GiD simulation**. Disponível em: https://www.gidsimulation.com/. Acesso em: 07 maio 2026.
