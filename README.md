@@ -21,7 +21,7 @@ O módulo Matriz_Global possui as subrotinas Monta_Matriz_Global(); Armazena_Ele
 Para que o pré processamento no GiD seja possível o diretório trelica95.gid/ deve ser copiado no diretório problemtypes/ do GiD.
 
 
-Referências Bibliográficas
+**Referências Bibliográficas**
 
 BREBBIA, C.A. & FERRANTE, A.J. (1986) **Computational methods for the solution of engineering problems**. London: Pentech Press. 370p.
  
