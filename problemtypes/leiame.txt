@@ -1,1 +1,2 @@
 O diretório trelica95.gid/ contém os arquivos de pré processamento no GiD.
+O diretório trelica95.gid/ deve ser copiado no diretório problemtypes/ do GiD.
