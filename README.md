@@ -1,3 +1,4 @@
+# trelica95
 **trelica95: Programa educacional para análise estática de treliças planas** (Educational program for static analysis of plane trusses)
 
 O programa trelica95.f95 é uma adaptação (fork) do programa de treliças planas de BREBBIA & FERRANTE (1986). O programa original estava escrito em Fortran IV/77 e foi adaptado para Fortran 90/95, com uma disciplina de programação estruturada mais forte.
